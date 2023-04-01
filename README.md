@@ -21,6 +21,8 @@ You can use it by simply placing the binary on the server and giving it execute 
 Please download the binary from the [Release page](https://github.com/knziiy/cpugraph/releases).
 
 ```shell
+$ mv cpugraph.x86_64 cpugraph
+$ chmod 755 cpugraph
 $ ./cpugraph
 ```
 
