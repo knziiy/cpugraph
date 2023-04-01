@@ -17,7 +17,8 @@ So I created a command called cpugraph, which is limited to CPU usage, but displ
   <img src="static/cpugraph.png">
 </div>
 
-You can use it by simply placing the binary on the server and giving it execute permission.
+You can use it by simply placing the binary on the server and giving it execute permission.  
+Please download the binary from the [Release page](https://github.com/knziiy/cpugraph/releases).
 
 ```shell
 $ ./cpugraph
