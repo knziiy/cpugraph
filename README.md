@@ -34,3 +34,10 @@ If your terminal is narrow, setting it to about 50 will make it look nice.
 ```shell
 $ ./cpugraph 2 50
 ```
+
+## Author & License
+
+* knziiy
+* License:  
+  MIT (see LICENSE)
+  
